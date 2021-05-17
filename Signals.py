@@ -11,7 +11,6 @@
 import pandas as pd
 import random
 import numpy as np
-import talib
 
 
 # 将None作为信号返回
